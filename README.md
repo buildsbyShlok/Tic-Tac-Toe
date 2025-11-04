@@ -32,7 +32,7 @@ Play against another player on the same screen with instant feedback and win det
 
 | 💻 Game UI |
 |:-----------:|
-| ![Tic Tac Toe Preview](./preview.png) |
+| ![Tic Tac Toe Preview](./assets/preview.png) |
 
 
 ---
