@@ -17,7 +17,7 @@
 ## 🌐 Live Demo
 
 🚀 The project is deployed and live! <br>
-👉 [**Visit the Game**](https://your-tic-tac-toe-link.netlify.app/)  
+👉 [**Visit the Game**](https://tic-tac-toe-1-6.netlify.app/)  
 
 ---
 
