@@ -68,3 +68,5 @@ Play against another player on the same screen with instant feedback and win det
 5. The **New Game** button resets the board instantly.  
 
 ---
+
+Testing NEXOR pull request integration.
